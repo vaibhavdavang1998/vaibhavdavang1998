@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- vaibhavdavang1@gmail.com
 
 <!---
 vaibhavdavang1998/vaibhavdavang1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
